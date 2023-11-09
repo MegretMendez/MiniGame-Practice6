@@ -2,7 +2,13 @@
 
 By: David Mendez & Jose Megret
 
-Project Description: In this project, we the help of managers, gameobjects and other Unity elements, we will create a scene where a Shooter is inclosed in a four wall with floor tiles scenario. Waves of Enemies will spwan and the goal is to eliminate all enemies. There is a catch though. If a player shoots an enemy and instead the bullet hits a wall, a random floor tile will disappear. But wait...there's more!! If the player misses an enemy and the bullet hits a corner window, the entire floor will disappear at the same time. If this happens, you automatically lose. The last obstacle of the game is... simulated rain falling constantly so hitting enemies and moving through the scene will be more difficult.
+Project Description: In this project, we use the help of managers, gameobjects and other Unity elements, in which we will create a scene where a Shooter is inclosed in a four wall with floor tiles scenario. Waves of Enemies will spawn and the goal is to eliminate all enemies. 
+***There is a catch though.***
+- If a player shoots an enemy and instead the bullet hits a wall, a random floor tile will disappear. 
+***But wait...there's more!!***
+- If the player misses an enemy and the bullet hits a corner window, the entire floor will disappear at the same time. If this happens, **you automatically lose**.
+***The last obstacle of the game is...***
+- Simulated rain falling constantly so hitting enemies and moving through the scene will be more difficult.
 
 Step 1: Creating Simulated Rain
 ![Screenshot 2023-11-08 at 9 02 00 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/559ffad0-1d9c-42ec-a843-96c7fb6c5610)
