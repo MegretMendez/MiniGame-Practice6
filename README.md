@@ -12,7 +12,7 @@ Project Description: In this project, we use the help of managers, gameobjects a
   
 ***The last obstacle of the game is...***
 - Simulated rain falling constantly so hitting enemies and moving through the scene will be more difficult.
-
+____________________________________________________________________________________________________________________________________________________________________________________________
 
 ***Step by Step guide of game creation:***
 
