@@ -17,3 +17,7 @@ WaveSpawner:
 Rain Droping:
 https://drive.google.com/file/d/1GInwgqSjTpO1114ekctUr6B_bkHKFzU_/view?usp=sharing
 
+Step 2: Enemy Waves
+
+Description: Enemies will spawn from 4 different points, in this case from every corner. Therefore we will creat 4 Empty Objects and position each one on a corner of the map. To each object add a Script called WaveSpawn. There will also be a Wave Manager that is in charge of these spawn points.
+
