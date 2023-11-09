@@ -36,3 +36,5 @@ FloorManager Script:
 ![Screenshot 2023-11-08 at 10 03 36 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/179a26af-2fdd-42f5-b034-e3d2b220a721)
 ![Screenshot 2023-11-08 at 10 04 41 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/bafcfd79-fad7-42af-9162-225039f9fbe6)
 
+Result:
+https://drive.google.com/file/d/1tMcrSFiwH5lSGYua2MCrUZvAKMlI6PMT/view?usp=sharing
