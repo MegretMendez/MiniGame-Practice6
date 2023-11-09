@@ -30,4 +30,9 @@ Step 4: Floors
 
 ![Screenshot 2023-11-08 at 9 55 43 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/25eba844-608d-49b5-83c2-57c93bb16206)
 
-Description: Every Floor panel will have a Box Collider and a Script called Floors, which is commented for better and easier understanding.
+Description: Every Floor panel will have a Box Collider and a Script called Floors, which is commented for better and easier understanding. In addition, a floorManager will be encharge of adding and removing floors from a list when called.
+
+FloorManager Script:
+![Screenshot 2023-11-08 at 10 03 36 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/179a26af-2fdd-42f5-b034-e3d2b220a721)
+![Screenshot 2023-11-08 at 10 04 41 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/bafcfd79-fad7-42af-9162-225039f9fbe6)
+
