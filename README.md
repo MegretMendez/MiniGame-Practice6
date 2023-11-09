@@ -27,6 +27,7 @@ Enemy Manager Script:
 
 
 Step 4: Floors
+
 ![Screenshot 2023-11-08 at 9 55 43 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/25eba844-608d-49b5-83c2-57c93bb16206)
 
 Description: Every Floor panel will have a Box Collider and a Script called Floors, which is commented for better and easier understanding.
