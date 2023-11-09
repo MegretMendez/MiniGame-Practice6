@@ -13,7 +13,8 @@ Project Description: In this project, we use the help of managers, gameobjects a
 ***The last obstacle of the game is...***
 - Simulated rain falling constantly so hitting enemies and moving through the scene will be more difficult.
 
-***Now let's Begin with the creation:***
+
+***Step by Step guide of game creation:***
 
 Step 1: Creating Simulated Rain
 ![Screenshot 2023-11-08 at 9 02 00 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/559ffad0-1d9c-42ec-a843-96c7fb6c5610)
