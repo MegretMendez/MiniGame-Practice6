@@ -4,7 +4,7 @@ Project Description: In this project, we the help of managers, gameobjects and o
 Step 1: Creating Simulated Rain
 ![Screenshot 2023-11-08 at 9 02 00 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/559ffad0-1d9c-42ec-a843-96c7fb6c5610)
 
-Description: Create an Empty GameObject to act as the point from where the raindrops will drop. Inside this Empty Object, create multiple Spheres and add a Wave Manager Script to these new objects. In this case, our point where the spheres will drop and the spheres are called Rain Dropping. We added a Rain Rotation script to the point of drop so that the spheres drop evenly throught the scenario.
+Description: Create an Empty GameObject to act as the point from where the raindrops will drop. Inside this Empty Object, create multiple Spheres and add a Wave Spawn Script to these new objects. In this case, our point where the spheres will drop and the spheres are called Rain Dropping. We added a Rain Rotation script to the point of drop so that the spheres drop evenly throught the scenario.
 
 Scripts used in Step 1:
 Rain Rotation:
@@ -18,6 +18,11 @@ Rain Droping:
 https://drive.google.com/file/d/1GInwgqSjTpO1114ekctUr6B_bkHKFzU_/view?usp=sharing
 
 Step 2: Enemy Waves
+![Screenshot 2023-11-08 at 9 42 44 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/c577d0e8-d6d6-4082-ba3d-2f8b29f14e7a)
 
-Description: Enemies will spawn from 4 different points, in this case from every corner. Therefore we will creat 4 Empty Objects and position each one on a corner of the map. To each object add a Script called WaveSpawn. There will also be a Wave Manager that is in charge of these spawn points.
+Description: Enemies will spawn from 4 different points, in this case from every corner. Therefore we will creat 4 Empty Objects and position each one on a corner of the map. To each object add a Script called WaveSpawn. There will also be a Wave Manager that is in charge of these spawn points. The script Wave Spawn is th same script from Step 1. 
+
+Enemy Manager Script:
+![Screenshot 2023-11-08 at 9 41 26 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/907bdd9e-149f-4cc3-b810-7a2209fd5e7b)
+
 
