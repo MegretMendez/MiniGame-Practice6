@@ -1,6 +1,6 @@
 # MiniGame-Practice6
 
-By: David Mendez & Jose Megret
+***By: David Mendez & Jose Megret***
 
 Project Description: In this project, we use the help of managers, gameobjects and other Unity elements, in which we will create a scene where a Shooter is inclosed in a four wall with floor tiles scenario. Waves of Enemies will spawn and the goal is to eliminate all enemies. 
 
