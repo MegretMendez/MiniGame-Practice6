@@ -14,3 +14,6 @@ WaveSpawner:
 ![Screenshot 2023-11-08 at 9 12 40 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/15bd4c30-7420-4500-a3ff-229e7d709069)
 ![Screenshot 2023-11-08 at 9 13 23 PM](https://github.com/MegretMendez/MiniGame-Practice6/assets/142510070/a6db218b-4776-4c37-ac44-1f1f94e9d2cf)
 
+Rain Droping:
+https://drive.google.com/file/d/1GInwgqSjTpO1114ekctUr6B_bkHKFzU_/view?usp=sharing
+
